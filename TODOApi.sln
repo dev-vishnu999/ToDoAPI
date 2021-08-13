@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TODOApi", "TODOApi\TODOApi.csproj", "{7784B807-1564-4D11-8686-ABB9FDEE1303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{05A26802-25C6-463E-912F-B1739C9CBC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{F1F6CA27-0ACC-42AC-A430-A5FE4E82A2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7784B807-1564-4D11-8686-ABB9FDEE1303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7784B807-1564-4D11-8686-ABB9FDEE1303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7784B807-1564-4D11-8686-ABB9FDEE1303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7784B807-1564-4D11-8686-ABB9FDEE1303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A26802-25C6-463E-912F-B1739C9CBC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A26802-25C6-463E-912F-B1739C9CBC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A26802-25C6-463E-912F-B1739C9CBC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A26802-25C6-463E-912F-B1739C9CBC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F6CA27-0ACC-42AC-A430-A5FE4E82A2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F6CA27-0ACC-42AC-A430-A5FE4E82A2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F6CA27-0ACC-42AC-A430-A5FE4E82A2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F6CA27-0ACC-42AC-A430-A5FE4E82A2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D95FC97A-821D-4C25-B004-8F1F6E5F988C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\ToDO\vishnu\TODOApi\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\ToDO\vishnu\TODOApi\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\ToDO\vishnu\TODOApi\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.pdb
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+D:\ToDO\vishnu\TODOApi\Services\bin\Debug\netcoreapp3.1\Repositories.dll
+D:\ToDO\vishnu\TODOApi\Services\bin\Debug\netcoreapp3.1\Repositories.pdb
+D:\ToDO\vishnu\TODOApi\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete

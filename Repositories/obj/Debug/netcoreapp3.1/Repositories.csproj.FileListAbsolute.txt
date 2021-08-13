@@ -1,0 +1,13 @@
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+D:\ToDO\vishnu\TODOApi\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+D:\ToDO\vishnu\TODOApi\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+D:\ToDO\vishnu\TODOApi\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+D:\ToDO\vishnu\TODOApi\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+D:\ToDO\vishnu\TODOApi\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+D:\ToDO\vishnu\TODOApi\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.AssemblyReference.cache
